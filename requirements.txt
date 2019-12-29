@@ -1,3 +1,4 @@
-bluepy==1.0.5
+bluepy
 pycrypto==2.6.1
 paho-mqtt
+prometheus_client
